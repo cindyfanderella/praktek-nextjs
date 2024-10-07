@@ -11,4 +11,4 @@ Silahkan gunakan perintah git clone untuk melakukan clone repo ini ke Komputer A
 | *Kelas*          | TI B                                                                |
 | *Semester*       | 5                                                                   |
 | *Mata Kuliah*    | Pemrograman API                                                     |
-| *Dosen Pengampu* | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://github.com/mrhmt80) |'
+| *Dosen Pengampu* | [Mohammad Faried Rahmat, S.ST., M.Tr.T](https://fariedrahmat.github.io/) |'
